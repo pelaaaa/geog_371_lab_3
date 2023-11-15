@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "simple_osu_pts",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6318" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Name": "Dixon" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -123.278732813040151, 44.563180842084378 ] ] } },
+{ "type": "Feature", "properties": { "id": 2, "Name": "MU" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -123.278961044945021, 44.56491540456144 ] ] } },
+{ "type": "Feature", "properties": { "id": 3, "Name": "Library" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -123.276115753864232, 44.565082774625012 ] ] } },
+{ "type": "Feature", "properties": { "id": 4, "Name": "LINC" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -123.28169982780355, 44.565752254879314 ] ] } },
+{ "type": "Feature", "properties": { "id": 5, "Name": "Wilkinson" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -123.280391298215591, 44.568217159451983 ] ] } }
+]
+}
