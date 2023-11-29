@@ -1,0 +1,4572 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-11-29T19:30:58Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/32332581",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9869039,
+          44.9900739
+        ]
+      },
+      "id": "way/32332581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/36805554",
+        "addr:city": "Portland",
+        "addr:housenumber": "1520",
+        "addr:postcode": "97232",
+        "addr:state": "OR",
+        "addr:street": "Northeast Grand Avenue",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6604109,
+          45.5340571
+        ]
+      },
+      "id": "way/36805554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/39379212",
+        "addr:city": "Portland",
+        "addr:housenumber": "2010",
+        "addr:postcode": "97212",
+        "addr:state": "OR",
+        "addr:street": "Northeast César E. Chávez Boulevard",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "delivery": "no",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "phone": "+1-503-282-1234",
+        "ref": "7789",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/us/en-us/location/or/portland/2010-ne-cesar-e-chavez-blvd/7789.html",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.622483,
+          45.5372631
+        ]
+      },
+      "id": "way/39379212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/39872923",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.205638,
+          44.850966
+        ]
+      },
+      "id": "way/39872923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/43926133",
+        "addr:city": "Troutdale",
+        "addr:housenumber": "2555",
+        "addr:postcode": "97060",
+        "addr:state": "OR",
+        "addr:street": "Southwest Cherry Park Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "24/7",
+        "phone": "+1-503-674-0208",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4125538,
+          45.5285468
+        ]
+      },
+      "id": "way/43926133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/53871664",
+        "addr:city": "Lake Oswego",
+        "addr:housenumber": "16044",
+        "addr:postcode": "97035",
+        "addr:street": "Boones Ferry Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7206374,
+          45.4092343
+        ]
+      },
+      "id": "way/53871664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/59662572",
+        "addr:city": "Troutdale",
+        "addr:country": "US",
+        "addr:housenumber": "1002",
+        "addr:postcode": "97060",
+        "addr:state": "OR",
+        "addr:street": "Northwest Frontage Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "08:00-23:00",
+        "name": "McDonald's",
+        "opening_hours": "06:00-21:00",
+        "phone": "+1-503-665-9455",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3975675,
+          45.5439091
+        ]
+      },
+      "id": "way/59662572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/97291282",
+        "addr:city": "Beaverton",
+        "addr:housenumber": "3519",
+        "addr:postcode": "97005",
+        "addr:state": "OR",
+        "addr:street": "Southwest Cedar Hills Boulevard",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "retail",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 05:00-24:00",
+        "opening_hours:drive_through": "24/7",
+        "phone": "+1-503-430-5042",
+        "ref": "2160",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/us/en-us/location/or/beaverton/3519-cedar-hills-blvd/2160.html",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8106847,
+          45.4939509
+        ]
+      },
+      "id": "way/97291282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/97654903",
+        "addr:city": "Aloha",
+        "addr:housenumber": "17555",
+        "addr:postcode": "97007",
+        "addr:state": "OR",
+        "addr:street": "Southwest Farmington Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "24/7",
+        "phone": "+1-503-352-4170",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8583426,
+          45.4797227
+        ]
+      },
+      "id": "way/97654903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/98586071",
+        "addr:city": "Beaverton",
+        "addr:housenumber": "15975",
+        "addr:postcode": "97006",
+        "addr:street": "Southwest Regatta Lane",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8414662,
+          45.5170307
+        ]
+      },
+      "id": "way/98586071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/107656569",
+        "addr:city": "Hillsboro",
+        "addr:country": "US",
+        "addr:housenumber": "1215",
+        "addr:postcode": "97124",
+        "addr:state": "OR",
+        "addr:street": "Northeast 48th Avenue",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "retail",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9345463,
+          45.5338619
+        ]
+      },
+      "id": "way/107656569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/108326972",
+        "addr:city": "Hillsboro",
+        "addr:housenumber": "2435",
+        "addr:postcode": "97006",
+        "addr:state": "OR",
+        "addr:street": "Northwest Town Center Drive",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.867093,
+          45.537158
+        ]
+      },
+      "id": "way/108326972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/111707475",
+        "addr:city": "Wilsonville",
+        "addr:housenumber": "29682",
+        "addr:postcode": "97070",
+        "addr:state": "OR",
+        "addr:street": "Southwest Town Center Loop West",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "24/7",
+        "ele": "53.9",
+        "height": "4.7",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "05:00-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-503-685-9465",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7666147,
+          45.3054726
+        ]
+      },
+      "id": "way/111707475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/113700393",
+        "addr:city": "Tigard",
+        "addr:housenumber": "11201",
+        "addr:postcode": "97223",
+        "addr:state": "OR",
+        "addr:street": "Southwest 72nd Avenue",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7517433,
+          45.4392553
+        ]
+      },
+      "id": "way/113700393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/115842677",
+        "addr:city": "Portland",
+        "addr:housenumber": "5613",
+        "addr:postcode": "97266",
+        "addr:state": "OR",
+        "addr:street": "Southeast 82nd Avenue",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "24/7",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "05:00-22:00",
+        "phone": "+1-503-777-9007",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5795925,
+          45.4820023
+        ]
+      },
+      "id": "way/115842677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/117449341",
+        "addr:city": "Portland",
+        "addr:housenumber": "10050",
+        "addr:postcode": "97219",
+        "addr:state": "OR",
+        "addr:street": "Southwest Barbur Boulevard",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "24/7",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "05:00-24:00",
+        "phone": "+1-503-246-6711",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7225128,
+          45.452628
+        ]
+      },
+      "id": "way/117449341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119407752",
+        "addr:city": "Seaside",
+        "addr:housenumber": "225",
+        "addr:postcode": "97138",
+        "addr:state": "OR",
+        "addr:street": "South Roosevelt Drive",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.9204974,
+          45.9922483
+        ]
+      },
+      "id": "way/119407752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119417342",
+        "addr:city": "Hood River",
+        "addr:housenumber": "1049",
+        "addr:postcode": "97031",
+        "addr:state": "OR",
+        "addr:street": "East Marina Way",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "05:30-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-541-386-2268",
+        "ref": "7966",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5001256,
+          45.7112164
+        ]
+      },
+      "id": "way/119417342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/124676704",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "retail",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.2600614,
+          44.5666728
+        ]
+      },
+      "id": "way/124676704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/141022837",
+        "addr:city": "Portland",
+        "addr:housenumber": "13459",
+        "addr:postcode": "97229",
+        "addr:state": "OR",
+        "addr:street": "Northwest Cornell Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "05:00-24:00",
+        "phone": "+1-503-643-9455",
+        "ref": "21298",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8138154,
+          45.5277432
+        ]
+      },
+      "id": "way/141022837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/150535623",
+        "addr:city": "Portland",
+        "addr:housenumber": "12005",
+        "addr:postcode": "97217",
+        "addr:state": "OR",
+        "addr:street": "North Center Avenue",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "24/7",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "05:00-23:00",
+        "phone": "+1-503-289-2127",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6805744,
+          45.6101699
+        ]
+      },
+      "id": "way/150535623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/150570453",
+        "addr:city": "Portland",
+        "addr:housenumber": "1831",
+        "addr:postcode": "97209",
+        "addr:state": "OR",
+        "addr:street": "West Burnside Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "05:00-23:00; 24/7 \"drive-through\"",
+        "phone": "+1-503-227-6870",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6899743,
+          45.523189
+        ]
+      },
+      "id": "way/150570453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/171729113",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0525652,
+          44.6467966
+        ]
+      },
+      "id": "way/171729113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/183385858",
+        "addr:city": "Forest Grove",
+        "addr:housenumber": "3315",
+        "addr:postcode": "97116",
+        "addr:state": "OR",
+        "addr:street": "Pacific Avenue",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "note": "24/7 hours for drive through. Dining room hours 06:00-23:00",
+        "opening_hours": "24/7",
+        "phone": "+1-503-352-9076",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0890729,
+          45.5204936
+        ]
+      },
+      "id": "way/183385858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/195390027",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "commercial",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7544546,
+          42.2116947
+        ]
+      },
+      "id": "way/195390027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/199295197",
+        "addr:city": "Lincoln City",
+        "addr:housenumber": "5060",
+        "addr:postcode": "97367",
+        "addr:state": "OR",
+        "addr:street": "Northeast Highway 101",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0048281,
+          44.9951334
+        ]
+      },
+      "id": "way/199295197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200676592",
+        "addr:city": "Springfield",
+        "addr:housenumber": "1565",
+        "addr:postcode": "97477",
+        "addr:state": "OR",
+        "addr:street": "Mohawk Boulevard",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "commercial",
+        "cuisine": "burger",
+        "delivery": "no",
+        "name": "McDonald's",
+        "outdoor_seating": "no",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9992596,
+          44.0593415
+        ]
+      },
+      "id": "way/200676592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/202035429",
+        "addr:city": "Cottage Grove",
+        "addr:housenumber": "1520",
+        "addr:postcode": "97424",
+        "addr:state": "OR",
+        "addr:street": "Gateway Boulevard",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "source": "bing",
+        "takeaway": "yes",
+        "toilets": "yes",
+        "toilets:access": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0449597,
+          43.8034964
+        ]
+      },
+      "id": "way/202035429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/215226566",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "source": "Bing",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.0740804,
+          43.5736313
+        ]
+      },
+      "id": "way/215226566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/217203310",
+        "addr:city": "Springfield",
+        "addr:housenumber": "3405",
+        "addr:postcode": "97477",
+        "addr:state": "OR",
+        "addr:street": "Gateway Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "check_date": "2023-05-04",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "source": "Bing",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0410026,
+          44.0829933
+        ]
+      },
+      "id": "way/217203310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/234587596",
+        "addr:city": "Portland",
+        "addr:housenumber": "2875",
+        "addr:postcode": "97202",
+        "addr:state": "OR",
+        "addr:street": "Southeast Powell Boulevard",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "phone": "+1-503-233-4029",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6360563,
+          45.4977285
+        ]
+      },
+      "id": "way/234587596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262580825",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "retail",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9968282,
+          45.5920009
+        ]
+      },
+      "id": "way/262580825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/267098489",
+        "addr:city": "Portland",
+        "addr:housenumber": "3110",
+        "addr:postcode": "97217",
+        "addr:state": "OR",
+        "addr:street": "North Going Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "commercial",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6986961,
+          45.5556286
+        ]
+      },
+      "id": "way/267098489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/286811686",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0643271,
+          44.6425306
+        ]
+      },
+      "id": "way/286811686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/299135499",
+        "addr:city": "Beaverton",
+        "addr:housenumber": "9475",
+        "addr:postcode": "97005",
+        "addr:state": "OR",
+        "addr:street": "Southwest Beaverton Hillsdale Highway",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "opening_hours": "05:00-24:00",
+        "phone": "+1-503-646-1816",
+        "ref": "330",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7742169,
+          45.4868383
+        ]
+      },
+      "id": "way/299135499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/306560071",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "building:colour": "white",
+        "building:use": "foodservice",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "roof:colour": "grey",
+        "roof:shape": "flat",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8152351,
+          44.7820022
+        ]
+      },
+      "id": "way/306560071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/311044555",
+        "addr:city": "Eugene",
+        "addr:housenumber": "55",
+        "addr:postcode": "97404",
+        "addr:state": "OR",
+        "addr:street": "River Avenue",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1265079,
+          44.0959729
+        ]
+      },
+      "id": "way/311044555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/311084640",
+        "addr:city": "Hillsboro",
+        "addr:country": "US",
+        "addr:housenumber": "110",
+        "addr:postcode": "97123",
+        "addr:state": "OR",
+        "addr:street": "Southeast Baseline Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9893905,
+          45.519942
+        ]
+      },
+      "id": "way/311084640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/318885804",
+        "addr:city": "Damascus",
+        "addr:housenumber": "19850",
+        "addr:postcode": "97089",
+        "addr:state": "OR",
+        "addr:street": "Southeast Highway 212",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Sa 05:00-23:00; Su 06:00-23:00",
+        "phone": "+1-503-658-0709",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4577815,
+          45.4172645
+        ]
+      },
+      "id": "way/318885804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/319800945",
+        "addr:city": "Milwaukie",
+        "addr:housenumber": "10970",
+        "addr:postcode": "97222",
+        "addr:state": "OR",
+        "addr:street": "Southeast Oak Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "Mo-Th 00:00-04:00,04:30-24:00; We-Su 04:30-24:00",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "Mo,We 05:00-23:00; Tu-Su 05:00-22:00",
+        "phone": "+1-503-659-0979",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6285798,
+          45.4432941
+        ]
+      },
+      "id": "way/319800945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/324301299",
+        "addr:city": "Canby",
+        "addr:country": "US",
+        "addr:housenumber": "709",
+        "addr:postcode": "97013",
+        "addr:state": "OR",
+        "addr:street": "Southwest 1st Avenue",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "24/7",
+        "ele": "47.6",
+        "height": "7.4",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "5:00-23:00",
+        "phone": "+1-503-232-7005",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6991676,
+          45.2588968
+        ]
+      },
+      "id": "way/324301299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/325447260",
+        "addr:city": "Portland",
+        "addr:housenumber": "8149",
+        "addr:postcode": "97215",
+        "addr:state": "OR",
+        "addr:street": "Southeast Stark Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.579372,
+          45.5194054
+        ]
+      },
+      "id": "way/325447260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/331558946",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "retail",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "opening_hours": "5:00-23:00",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.2543481,
+          44.5908749
+        ]
+      },
+      "id": "way/331558946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/332360718",
+        "addr:city": "Tigard",
+        "addr:housenumber": "12388",
+        "addr:postcode": "97223",
+        "addr:state": "OR",
+        "addr:street": "Southwest Scholls Ferry Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "McDonalds Free WiFi",
+        "name": "McDonald's",
+        "opening_hours": "Drivethru open 24/7, Mon-Thu 7-9, Fri-Sun opens 7 closes unknown",
+        "payment:american_express": "yes",
+        "payment:app": "yes",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.803871,
+          45.4433057
+        ]
+      },
+      "id": "way/332360718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/336054417",
+        "addr:city": "Tigard",
+        "addr:housenumber": "12090",
+        "addr:postcode": "97223",
+        "addr:state": "OR",
+        "addr:street": "Southwest Main Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "ele": "59.3",
+        "height": "5.0",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "24/7",
+        "phone": "+1-503-639-8585",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7678887,
+          45.432313
+        ]
+      },
+      "id": "way/336054417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/344376777",
+        "addr:city": "Eugene",
+        "addr:housenumber": "659",
+        "addr:postcode": "97401",
+        "addr:state": "OR",
+        "addr:street": "East Broadway",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "source": "Bing",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0830767,
+          44.0502461
+        ]
+      },
+      "id": "way/344376777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/345134115",
+        "addr:city": "Eugene",
+        "addr:housenumber": "1910",
+        "addr:postcode": "97402",
+        "addr:state": "OR",
+        "addr:street": "West 6th Avenue",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "operator": "mcdonald",
+        "phone": "+1 541 342 5533",
+        "source": "Bing",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/us/en-us/location/OR/EUGENE/1910-6TH-AVE-W/6209.html",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1216609,
+          44.0530103
+        ]
+      },
+      "id": "way/345134115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/348160261",
+        "addr:city": "Oregon City",
+        "addr:housenumber": "2010",
+        "addr:postcode": "97045",
+        "addr:state": "OR",
+        "addr:street": "Clackamette Drive",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "Mo-Su 05:00-23:00; Fr,Sa 05:00-24:00",
+        "ele": "14.9",
+        "height": "4.8",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "05:00-23:00",
+        "phone": "+1-503-655-2393",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6018031,
+          45.3689588
+        ]
+      },
+      "id": "way/348160261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/348352019",
+        "addr:city": "Gladstone",
+        "addr:housenumber": "820",
+        "addr:postcode": "97027",
+        "addr:state": "OR",
+        "addr:street": "East Berkeley Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "ele": "28.3",
+        "height": "5.0",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5820155,
+          45.3830775
+        ]
+      },
+      "id": "way/348352019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/351108383",
+        "addr:city": "Milwaukie",
+        "addr:housenumber": "8151",
+        "addr:postcode": "97222",
+        "addr:state": "OR",
+        "addr:street": "Southeast Lamphier Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "Mo-Su 05:00-24:00; Th 07:00-24:00; Fr 04:00-24:00",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 05:00-22:00; Th 07:00-22:00",
+        "phone": "+1-503-774-2960",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5794736,
+          45.4533834
+        ]
+      },
+      "id": "way/351108383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/352628229",
+        "addr:city": "West Linn",
+        "addr:housenumber": "2100",
+        "addr:postcode": "97068",
+        "addr:street": "8th Court",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "building": "yes",
+        "cuisine": "burger",
+        "ele": "44.7",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6509612,
+          45.3462509
+        ]
+      },
+      "id": "way/352628229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/353015646",
+        "addr:city": "Tualatin",
+        "addr:housenumber": "19200",
+        "addr:postcode": "97062",
+        "addr:state": "OR",
+        "addr:street": "Southwest Boones Ferry Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "24/7",
+        "ele": "39.7",
+        "height": "5.2",
+        "name": "McDonald's",
+        "opening_hours": "05:00-24:00",
+        "phone": "+1-503-692-0420",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7637452,
+          45.3809782
+        ]
+      },
+      "id": "way/353015646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/353365391",
+        "addr:city": "Aloha",
+        "addr:housenumber": "19525",
+        "addr:postcode": "97003",
+        "addr:street": "Southwest Tualatin Valley Highway",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "24/7",
+        "ele": "68.3",
+        "height": "5.2",
+        "name": "McDonald's",
+        "opening_hours": "00:00-02:00,05:00-24:00",
+        "phone": "+1-503-649-7092",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8784379,
+          45.4954065
+        ]
+      },
+      "id": "way/353365391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/355866248",
+        "addr:city": "Sherwood",
+        "addr:housenumber": "21335",
+        "addr:postcode": "97140",
+        "addr:state": "OR",
+        "addr:street": "Southwest Sherwood Boulevard",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "ele": "64.3",
+        "height": "6.7",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "05:00-23:00",
+        "phone": "+1-503-625-6998",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/us/en-us/location/or/sherwood/21355-sherwood-blvd/19013.html",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.847674,
+          45.3655799
+        ]
+      },
+      "id": "way/355866248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/357824044",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9840206,
+          44.9655716
+        ]
+      },
+      "id": "node/357824044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/360757298",
+        "addr:city": "Portland",
+        "addr:housenumber": "7487",
+        "addr:postcode": "97203",
+        "addr:state": "OR",
+        "addr:street": "North Ida Avenue",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "building:levels": "1",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "ele": "45.3",
+        "height": "5.0",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7389141,
+          45.5868736
+        ]
+      },
+      "id": "way/360757298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/365939699",
+        "addr:city": "Portland",
+        "addr:housenumber": "3208",
+        "addr:postcode": "97210",
+        "addr:street": "Northwest Yeon Avenue",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7061274,
+          45.5456838
+        ]
+      },
+      "id": "way/365939699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/366388837",
+        "addr:city": "Sandy",
+        "addr:housenumber": "37445",
+        "addr:postcode": "97055",
+        "addr:state": "OR",
+        "addr:street": "Highway 26",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "24/7",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Sa 04:00-23:00; Tu,Su 04:00-24:00",
+        "phone": "+1-503-668-7600",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2786219,
+          45.4009638
+        ]
+      },
+      "id": "way/366388837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/368094600",
+        "addr:city": "Oregon City",
+        "addr:housenumber": "1450",
+        "addr:postcode": "97045",
+        "addr:state": "OR",
+        "addr:street": "Molalla Avenue",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "Mo-Su 04:00-23:00; Fr,Sa 00:00-24:00",
+        "ele": "134.4",
+        "height": "5.4",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Sa 05:00-23:00; Su 06:00-23:00",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5897022,
+          45.3348468
+        ]
+      },
+      "id": "way/368094600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/368231207",
+        "addr:city": "Portland",
+        "addr:housenumber": "12026",
+        "addr:postcode": "97230",
+        "addr:state": "OR",
+        "addr:street": "Northeast Airport Way",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "building:levels": "1",
+        "cuisine": "burger",
+        "drive_through": "Mo-Su 00:00-24:00; Fr 04:00-24:00; Sa 00:00-01:00,04:00-24:00",
+        "ele": "8.1",
+        "height": "4.9",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 04:00-23:00; Fr,Sa 05:00-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+1-503-253-1695",
+        "ref": "13896",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5372115,
+          45.5668522
+        ]
+      },
+      "id": "way/368231207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/368247171",
+        "addr:city": "Portland",
+        "addr:housenumber": "18320",
+        "addr:postcode": "97233",
+        "addr:state": "OR",
+        "addr:street": "Southeast Stark Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "24/7",
+        "ele": "76.3",
+        "height": "6.3",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "05:00-23:00",
+        "phone": "+1-503-665-4736",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4747417,
+          45.5186813
+        ]
+      },
+      "id": "way/368247171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/368265895",
+        "addr:city": "Portland",
+        "addr:housenumber": "10245",
+        "addr:postcode": "97220",
+        "addr:state": "OR",
+        "addr:street": "Northeast Halsey Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "building:levels": "1",
+        "cuisine": "burger",
+        "ele": "90.1",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5570168,
+          45.5338629
+        ]
+      },
+      "id": "way/368265895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/368270574",
+        "addr:city": "Portland",
+        "addr:housenumber": "3330",
+        "addr:postcode": "97220",
+        "addr:state": "OR",
+        "addr:street": "Northeast 82nd Avenue",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "building:levels": "1",
+        "cuisine": "burger",
+        "ele": "75.5",
+        "height": "5.0",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5783616,
+          45.5469737
+        ]
+      },
+      "id": "way/368270574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/368547935",
+        "addr:city": "Portland",
+        "addr:housenumber": "12109",
+        "addr:postcode": "97220",
+        "addr:state": "OR",
+        "addr:street": "Northeast Glisan Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "building:levels": "1",
+        "cuisine": "burger",
+        "drive_through": "24/7",
+        "ele": "89.8",
+        "height": "4.9",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "05:00-23:00",
+        "phone": "+1-503-252-8057",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5382245,
+          45.5266946
+        ]
+      },
+      "id": "way/368547935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/368705457",
+        "addr:city": "Portland",
+        "addr:housenumber": "2231",
+        "addr:postcode": "97230",
+        "addr:state": "OR",
+        "addr:street": "Northeast 181st Avenue",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "ele": "57.1",
+        "height": "4.9",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4777364,
+          45.5384517
+        ]
+      },
+      "id": "way/368705457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/369158770",
+        "addr:city": "Portland",
+        "addr:housenumber": "9100",
+        "addr:postcode": "97266",
+        "addr:state": "OR",
+        "addr:street": "Southeast Powell Boulevard",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "building:levels": "1",
+        "cuisine": "burger",
+        "drive_through": "24/7",
+        "ele": "76.7",
+        "height": "7.5",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Fr 05:00-23:00; Th-Su 05:00-24:00",
+        "phone": "+1-503-775-0339",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5698833,
+          45.4971676
+        ]
+      },
+      "id": "way/369158770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/371066439",
+        "addr:city": "Gresham",
+        "addr:housenumber": "1567",
+        "addr:postcode": "97030",
+        "addr:street": "Northeast Burnside Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "ele": "104.9",
+        "height": "6.4",
+        "name": "McDonald's",
+        "operator": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4159403,
+          45.5040173
+        ]
+      },
+      "id": "way/371066439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/371286580",
+        "addr:city": "Gresham",
+        "addr:housenumber": "900",
+        "addr:postcode": "97080",
+        "addr:state": "OR",
+        "addr:street": "Southwest Highland Drive",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "Mo-Fr 04:00-24:00; Sa,Su 00:00-01:00,04:00-24:00",
+        "ele": "88.2",
+        "height": "5.4",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "05:00-23:00",
+        "phone": "+1-503-667-6914",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4750416,
+          45.489799
+        ]
+      },
+      "id": "way/371286580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/371677682",
+        "addr:city": "Happy Valley",
+        "addr:housenumber": "12440",
+        "addr:postcode": "97086",
+        "addr:street": "Southeast 82nd Avenue",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "ele": "48.2",
+        "height": "5.9",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5784621,
+          45.4337683
+        ]
+      },
+      "id": "way/371677682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/371823919",
+        "addr:city": "Clackamas",
+        "addr:housenumber": "15960",
+        "addr:postcode": "97015",
+        "addr:street": "Southeast 82nd Drive",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "ele": "47.9",
+        "height": "5.7",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5683089,
+          45.4080262
+        ]
+      },
+      "id": "way/371823919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/371944176",
+        "addr:postcode": "97031",
+        "addr:street": "Cascade Avenue",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5339711,
+          45.7095525
+        ]
+      },
+      "id": "way/371944176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/377866943",
+        "addr:city": "Bend",
+        "addr:housenumber": "1151",
+        "addr:postcode": "97702",
+        "addr:state": "OR",
+        "addr:street": "Southeast 3rd Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "opening_hours": "05:00-24:00",
+        "phone": "+1-541-389-8222",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3049696,
+          44.0379075
+        ]
+      },
+      "id": "way/377866943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/379042398",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8772268,
+          45.7406602
+        ]
+      },
+      "id": "way/379042398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/382802975",
+        "addr:city": "Saint Helens",
+        "addr:housenumber": "58771",
+        "addr:postcode": "97051",
+        "addr:state": "OR",
+        "addr:street": "Columbia River Highway",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "24/7",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "05:00-23:00",
+        "phone": "+1-503-397-6164",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8326969,
+          45.8484161
+        ]
+      },
+      "id": "way/382802975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/407304879",
+        "addr:city": "Keizer",
+        "addr:housenumber": "6025",
+        "addr:postcode": "97303",
+        "addr:state": "OR",
+        "addr:street": "Keizer Station Boulevard Northeast",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "delivery": "no",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.998396,
+          45.0082319
+        ]
+      },
+      "id": "way/407304879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/409611934",
+        "addr:city": "La Grande",
+        "addr:housenumber": "2308",
+        "addr:postcode": "97850",
+        "addr:state": "OR",
+        "addr:street": "Island Avenue",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "retail",
+        "building:levels": "1",
+        "cuisine": "burger",
+        "delivery": "no",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "opening_hours": "05:00-24:00",
+        "phone": "+1 541-963-9015",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.075495,
+          45.3300505
+        ]
+      },
+      "id": "way/409611934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/414891844",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8097456,
+          45.6566579
+        ]
+      },
+      "id": "way/414891844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/414901067",
+        "addr:city": "Astoria",
+        "addr:housenumber": "645",
+        "addr:postcode": "97103",
+        "addr:state": "OR",
+        "addr:street": "Marine Drive",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "phone": "503-325-4168",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.835941,
+          46.1900826
+        ]
+      },
+      "id": "way/414901067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/418198693",
+        "addr:city": "Tualatin",
+        "addr:housenumber": "6800",
+        "addr:postcode": "97062",
+        "addr:state": "OR",
+        "addr:street": "Southwest Nyberg Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "05:00-24:00",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "05:00-23:00",
+        "phone": "+1-503-691-2724",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7465044,
+          45.3824043
+        ]
+      },
+      "id": "way/418198693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/419793160",
+        "addr:city": "Salem",
+        "addr:housenumber": "5090",
+        "addr:postcode": "97306",
+        "addr:state": "OR",
+        "addr:street": "Commercial Street Southeast",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "delivery": "no",
+        "name": "McDonald's",
+        "opening_hours": "24/7",
+        "phone": "(503) 391-6641",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0292361,
+          44.8810019
+        ]
+      },
+      "id": "way/419793160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/436266312",
+        "addr:city": "Tigard",
+        "addr:housenumber": "16200",
+        "addr:postcode": "97224",
+        "addr:state": "OR",
+        "addr:street": "Southwest Pacific Highway",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "phone": "+1-503-620-8343",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7965875,
+          45.4036755
+        ]
+      },
+      "id": "way/436266312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/437879135",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1818493,
+          45.2270092
+        ]
+      },
+      "id": "way/437879135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/437949436",
+        "addr:city": "Happy Valley",
+        "addr:housenumber": "13470",
+        "addr:postcode": "97015",
+        "addr:state": "OR",
+        "addr:street": "Southeast Highway 212",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "24/7",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 05:00-23:00; Fr,Sa 05:00-24:00",
+        "phone": "+1-503-627-2855",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5258205,
+          45.4097938
+        ]
+      },
+      "id": "way/437949436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/438300816",
+        "addr:city": "Madras",
+        "addr:housenumber": "28",
+        "addr:postcode": "97741",
+        "addr:street": "Northeast Oak Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "phone": "+1-541-475-3580",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1291227,
+          44.6398615
+        ]
+      },
+      "id": "way/438300816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/455887740",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8615376,
+          42.3161901
+        ]
+      },
+      "id": "way/455887740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/461786840",
+        "addr:city": "Portland",
+        "addr:housenumber": "8011",
+        "addr:postcode": "97211",
+        "addr:state": "OR",
+        "addr:street": "Northeast Martin Luther King Junior Boulevard",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "24/7",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "05:00-23:00",
+        "phone": "+1-503-283-6733",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6620605,
+          45.5816918
+        ]
+      },
+      "id": "way/461786840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/463368808",
+        "addr:city": "Oak Grove",
+        "addr:housenumber": "15870",
+        "addr:postcode": "97267",
+        "addr:state": "OR",
+        "addr:street": "Southeast McLoughlin Boulevard",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "Mo-Fr 05:00-24:00; Sa,Su 00:00-02:00,05:00-24:00",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 05:00-22:00; Fr,Sa 05:00-23:00",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6249512,
+          45.4078988
+        ]
+      },
+      "id": "way/463368808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/463559856",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1009523,
+          43.9845611
+        ]
+      },
+      "id": "way/463559856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/471865209",
+        "addr:city": "Hillsboro",
+        "addr:housenumber": "6399",
+        "addr:postcode": "97124",
+        "addr:state": "OR",
+        "addr:street": "Northeast Cornelius Pass Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 04:30-23:00; Fr,Sa 04:30-00:00",
+        "phone": "+1-503-439-0090",
+        "takeaway": "yes",
+        "toilets": "customers",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8946988,
+          45.5662241
+        ]
+      },
+      "id": "way/471865209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/474539217",
+        "addr:housenumber": "1110",
+        "addr:street": "Center Street Northeast",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "retail",
+        "building:levels": "1",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Th,Su 05:00-23:00; Fr-Sa 05:00-24:00",
+        "source:shape": "bing",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0270137,
+          44.940325
+        ]
+      },
+      "id": "way/474539217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/484380306",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/us/en-us/location/or/newberg/3005-portland-rd/7439.html",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9488057,
+          45.3062849
+        ]
+      },
+      "id": "way/484380306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/488940119",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2895844,
+          45.8498136
+        ]
+      },
+      "id": "way/488940119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/496715884",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.8437544,
+          45.4691285
+        ]
+      },
+      "id": "way/496715884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/502967604",
+        "addr:city": "Bend",
+        "addr:housenumber": "2000",
+        "addr:postcode": "97701",
+        "addr:state": "OR",
+        "addr:street": "Northeast 3rd Street",
+        "addr:unit": "100",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 04:30-23:00; Fr,Sa 04:30-24:00",
+        "phone": "+1-541-389-3665",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3020759,
+          44.0702617
+        ]
+      },
+      "id": "way/502967604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/504051039",
+        "addr:city": "Bend",
+        "addr:housenumber": "220",
+        "addr:postcode": "97702",
+        "addr:state": "OR",
+        "addr:street": "Southwest Century Drive",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "opening_hours": "05:30-23:00",
+        "phone": "+1-541-389-8324",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3314131,
+          44.0484175
+        ]
+      },
+      "id": "way/504051039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/504318372",
+        "addr:city": "Bend",
+        "addr:housenumber": "2640",
+        "addr:postcode": "97701",
+        "addr:state": "OR",
+        "addr:street": "Northeast Highway 20",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "05:00-23:00",
+        "phone": "+1-541-389-8122",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.265968,
+          44.0552271
+        ]
+      },
+      "id": "way/504318372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/511889340",
+        "addr:city": "Ontario",
+        "addr:housenumber": "1690",
+        "addr:postcode": "97914",
+        "addr:state": "OR",
+        "addr:street": "East Idaho Avenue",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9408167,
+          44.0240637
+        ]
+      },
+      "id": "way/511889340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/521926559",
+        "addr:housenumber": "5701",
+        "addr:postcode": "97478",
+        "addr:street": "Main Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Th 05:00-23:00, Fr-Sa 05:00-01:00, Su 05:00-23:00",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9291362,
+          44.0453676
+        ]
+      },
+      "id": "way/521926559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/546132524",
+        "addr:housenumber": "570",
+        "addr:street": "Wallace Road Northwest",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "opening_hours": "24/7",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0498424,
+          44.9472497
+        ]
+      },
+      "id": "way/546132524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/551148117",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.2871902,
+          42.0533462
+        ]
+      },
+      "id": "way/551148117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/574651467",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3695571,
+          43.2378988
+        ]
+      },
+      "id": "way/574651467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/589335225",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8768543,
+          45.1505527
+        ]
+      },
+      "id": "way/589335225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/591448145",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7862772,
+          45.0141632
+        ]
+      },
+      "id": "way/591448145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/592802635",
+        "addr:city": "The Dalles",
+        "addr:housenumber": "1315",
+        "addr:postcode": "97058",
+        "addr:state": "OR",
+        "addr:street": "West 6th Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "phone": "+1-541-298-5747",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.2011569,
+          45.607365
+        ]
+      },
+      "id": "way/592802635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/600580361",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.85167,
+          42.4245191
+        ]
+      },
+      "id": "way/600580361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/601579546",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.856659,
+          42.3663065
+        ]
+      },
+      "id": "way/601579546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/602833971",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8516517,
+          44.3025946
+        ]
+      },
+      "id": "way/602833971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/603722777",
+        "addr:housenumber": "1140",
+        "addr:street": "Biddle Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "opening_hours": "Mo-We,Su 05:00-24:00; Th-Sa 05:00-01:00",
+        "phone": "+1 541-779-3334",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8712922,
+          42.3408204
+        ]
+      },
+      "id": "way/603722777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/607605315",
+        "addr:city": "Clackamas",
+        "addr:housenumber": "11899",
+        "addr:postcode": "97015",
+        "addr:state": "OR",
+        "addr:street": "Southeast Sunnyside Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "delivery": "yes",
+        "drive_through": "24/7",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 04:00-23:00; Fr,Sa 04:00-24:00",
+        "phone": "+1-503-658-5107",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5405809,
+          45.4305489
+        ]
+      },
+      "id": "way/607605315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/619840113",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1386884,
+          45.6042883
+        ]
+      },
+      "id": "way/619840113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/631428751",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.205721,
+          45.7659102
+        ]
+      },
+      "id": "node/631428751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/648838617",
+        "addr:city": "Redmond",
+        "addr:housenumber": "2456",
+        "addr:postcode": "97756",
+        "addr:state": "OR",
+        "addr:street": "The Dalles-California Highway",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "delivery": "no",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1827741,
+          44.2532213
+        ]
+      },
+      "id": "way/648838617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/668211397",
+        "addr:city": "Eugene",
+        "addr:housenumber": "3555",
+        "addr:postcode": "97402",
+        "addr:state": "OR",
+        "addr:street": "West 11th Avenue",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "service",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1446181,
+          44.0483407
+        ]
+      },
+      "id": "way/668211397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/679566887",
+        "addr:city": "Junction City",
+        "addr:housenumber": "355",
+        "addr:postcode": "97448",
+        "addr:state": "OR",
+        "addr:street": "West 10th Avenue",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.2040153,
+          44.2223374
+        ]
+      },
+      "id": "way/679566887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/736642947",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9839881,
+          44.9437189
+        ]
+      },
+      "id": "way/736642947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/738640892",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "delivery": "no",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 05:00-23:00",
+        "outdoor_seating": "no",
+        "survey:date": "2021-05-01",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9921895,
+          44.9493083
+        ]
+      },
+      "id": "way/738640892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/743453586",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "kids_area": "yes",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9808317,
+          44.9154028
+        ]
+      },
+      "id": "way/743453586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/746288274",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3800199,
+          43.1455098
+        ]
+      },
+      "id": "way/746288274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/749026464",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0281303,
+          44.9690283
+        ]
+      },
+      "id": "way/749026464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/780579419",
+        "addr:city": "Medford",
+        "addr:housenumber": "221",
+        "addr:postcode": "97501",
+        "addr:state": "OR",
+        "addr:street": "Fern Valley Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "opening_hours": "06:00-23:00",
+        "phone": "+1-541-535-7683",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/us/en-us/location/or/medford/221-fern-valley-rd/11234.html",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8174509,
+          42.2813021
+        ]
+      },
+      "id": "way/780579419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/794483771",
+        "addr:city": "Eugene",
+        "addr:housenumber": "2125",
+        "addr:postcode": "97402",
+        "addr:state": "OR",
+        "addr:street": "Cubit Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1674216,
+          44.0850636
+        ]
+      },
+      "id": "way/794483771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/797249862",
+        "addr:city": "Hillsboro",
+        "addr:housenumber": "2090",
+        "addr:postcode": "97123",
+        "addr:state": "OR",
+        "addr:street": "Southeast Cypress Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9604116,
+          45.5070817
+        ]
+      },
+      "id": "way/797249862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/824327681",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "source": "microsoft/BuildingFootprints",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.167128,
+          45.20185
+        ]
+      },
+      "id": "way/824327681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/868891438",
+        "addr:city": "Eugene",
+        "addr:housenumber": "2855",
+        "addr:postcode": "97405",
+        "addr:state": "OR",
+        "addr:street": "Willamette Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0902859,
+          44.0268203
+        ]
+      },
+      "id": "way/868891438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1047342357",
+        "addr:city": "Dallas",
+        "addr:housenumber": "227",
+        "addr:postcode": "97338",
+        "addr:state": "OR",
+        "addr:street": "East Ellendale Avenue",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "delivery": "no",
+        "name": "McDonald's",
+        "opening_hours:url": "http://www.mcoregon.com/11785/5647/Restaurant-Hours/",
+        "phone": "(503) 623-3288",
+        "source": "microsoft/BuildingFootprints",
+        "takeaway": "yes",
+        "website": "http://www.mcoregon.com/11785",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.309652,
+          44.9292715
+        ]
+      },
+      "id": "way/1047342357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1071444853",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.340579,
+          42.9729303
+        ]
+      },
+      "id": "way/1071444853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1071754874",
+        "addr:city": "Reedsport",
+        "addr:postcode": "97467",
+        "addr:state": "OR",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Sa 05:30-23:00; Su 06:00-23:00",
+        "takeaway": "yes",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1105528,
+          43.6998478
+        ]
+      },
+      "id": "way/1071754874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1080122108",
+        "addr:city": "Grants Pass",
+        "addr:postcode": "97526",
+        "addr:state": "OR",
+        "addr:street": "Northeast 6th Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3221693,
+          42.461315
+        ]
+      },
+      "id": "way/1080122108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1105658440",
+        "addr:city": "Philomath",
+        "addr:state": "OR",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "building": "retail",
+        "cuisine": "burger",
+        "dog": "no",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Th 05:00-23:00 \"Drive-Through\"; Fr-Sa 05:00-00:00 \"Drive-Through\"; Su 05:00-23:00 \"Drive-Through\"",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "source": "microsoft/BuildingFootprints",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3658501,
+          44.5393014
+        ]
+      },
+      "id": "way/1105658440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1106234928",
+        "addr:city": "Klamath Falls",
+        "addr:housenumber": "2481",
+        "addr:postcode": "97601",
+        "addr:state": "OR",
+        "addr:street": "Campus Drive",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "building": "yes",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Su 05:00-00:00",
+        "phone": "+1 (541) 884-6654",
+        "source": "microsoft/BuildingFootprints",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/us/en-us/location/or/klamath-falls/1874-avalon-blvd/1914.html",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7899105,
+          42.2495622
+        ]
+      },
+      "id": "way/1106234928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1161728632",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.5619336,
+          44.2977979
+        ]
+      },
+      "id": "node/1161728632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1165002665",
+        "addr:city": "La Pine",
+        "addr:postcode": "97739-9704",
+        "addr:state": "OR",
+        "addr:street": "Reed Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "building:part": "yes",
+        "cuisine": "burger",
+        "dog": "no",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "05:30-23:00",
+        "payment:apple_pay": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:google_pay": "yes",
+        "payment:samsung_pay": "yes",
+        "smoking": "no",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4998505,
+          43.674053
+        ]
+      },
+      "id": "way/1165002665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1573773056",
+        "addr:housenumber": "43",
+        "addr:street": "South 9th Street",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "opening_hours": "05:00-23:00",
+        "phone": "+1 541-664-1663",
+        "source": "local knowledge",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9096543,
+          42.3777895
+        ]
+      },
+      "id": "node/1573773056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1722506862",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6829906,
+          45.6436508
+        ]
+      },
+      "id": "node/1722506862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1802083950",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3873627,
+          45.9312879
+        ]
+      },
+      "id": "node/1802083950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2390205285",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3081329,
+          42.4365545
+        ]
+      },
+      "id": "node/2390205285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2972090999",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8140588,
+          44.8094616
+        ]
+      },
+      "id": "node/2972090999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3660478287",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "delivery": "no",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "name:en": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6055393,
+          45.1514937
+        ]
+      },
+      "id": "node/3660478287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3905855643",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8347758,
+          45.6693673
+        ]
+      },
+      "id": "node/3905855643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3982005049",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "McDonald's",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.598518,
+          45.5895748
+        ]
+      },
+      "id": "node/3982005049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4047804023",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3351728,
+          43.386703
+        ]
+      },
+      "id": "node/4047804023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4194795329",
+        "addr:city": "Eugene",
+        "addr:housenumber": "1580",
+        "addr:postcode": "97401",
+        "addr:state": "OR",
+        "addr:street": "Coburg Road",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.069359,
+          44.0796722
+        ]
+      },
+      "id": "node/4194795329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4376621190",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "name:en": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1937693,
+          44.2689648
+        ]
+      },
+      "id": "node/4376621190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4960341636",
+        "addr:city": "Bend",
+        "addr:housenumber": "20120",
+        "addr:postcode": "97702",
+        "addr:state": "OR",
+        "addr:street": "Pinebrook Boulevard",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "06:30-23:00",
+        "phone": "+1-541-389-9929",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3171399,
+          44.0234533
+        ]
+      },
+      "id": "node/4960341636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5065842911",
+        "addr:city": "Salem",
+        "addr:housenumber": "4020",
+        "addr:postcode": "97302",
+        "addr:state": "OR",
+        "addr:street": "Commercial Street Southeast",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "delivery": "no",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "opening_hours": "Su-Th 05:00-23:00; Fr-Sa 05:00-24:00",
+        "outdoor_seating": "no",
+        "smoking": "outside",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0379387,
+          44.8984199
+        ]
+      },
+      "id": "node/5065842911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5255326838",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3500355,
+          43.2264328
+        ]
+      },
+      "id": "node/5255326838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6233195612",
+        "addr:city": "Coos Bay",
+        "addr:housenumber": "772",
+        "addr:postcode": "97420",
+        "addr:state": "OR",
+        "addr:street": "South Broadway",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.2128347,
+          43.3614129
+        ]
+      },
+      "id": "node/6233195612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6237320674",
+        "addr:city": "North Bend",
+        "addr:housenumber": "3303",
+        "addr:postcode": "97459",
+        "addr:state": "OR",
+        "addr:street": "Broadway Avenue",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Sa 05:00-23:00, Su 06:00-23:00",
+        "phone": "+1-541-756-6617",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/us/en-us/location/OR/NORTH-BEND/3303-BROADWAY-AVENUE/3974.html?cid=RF:YXT:GMB::Clicks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.238782,
+          43.3922494
+        ]
+      },
+      "id": "node/6237320674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6594131476",
+        "addr:city": "Portland",
+        "addr:housenumber": "1035",
+        "addr:postcode": "97204",
+        "addr:street": "Southwest 6th Avenue",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:website": "https://www.mcdonalds.com/",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "drive_through": "no",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "McDonald's",
+        "opening_hours": "Mo-Fr 05:00-23:00; Sa,Su 06:00-23:00",
+        "phone": "+1-503-295-1234",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6802587,
+          45.5166159
+        ]
+      },
+      "id": "node/6594131476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6943299885",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1711459,
+          44.2924265
+        ]
+      },
+      "id": "node/6943299885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7349896867",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3022492,
+          42.4347126
+        ]
+      },
+      "id": "node/7349896867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7357854145",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.252293,
+          43.3899705
+        ]
+      },
+      "id": "node/7357854145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7819278307",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9866878,
+          44.9650053
+        ]
+      },
+      "id": "node/7819278307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7819302538",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.880575,
+          45.1477399
+        ]
+      },
+      "id": "node/7819302538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8379896194",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "drive_through": "yes",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0261048,
+          44.9943904
+        ]
+      },
+      "id": "node/8379896194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10572005853",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.836309,
+          45.1510205
+        ]
+      },
+      "id": "node/10572005853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10879611367",
+        "addr:housenumber": "91027",
+        "addr:street": "Coburg Industrial Way",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes",
+        "website": "https://www.mcdonalds.com/us/en-us/location/or/coburg/91027-s-coburg-industrial-way/31843.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0561484,
+          44.1366258
+        ]
+      },
+      "id": "node/10879611367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11096750231",
+        "amenity": "fast_food",
+        "brand": "McDonald's",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "cuisine": "burger",
+        "name": "McDonald's",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.353349,
+          42.4206251
+        ]
+      },
+      "id": "node/11096750231"
+    }
+  ]
+}
